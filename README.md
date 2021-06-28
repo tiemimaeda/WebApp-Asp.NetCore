@@ -1,5 +1,7 @@
 <h1 align = "center"> WebApp Asp.NetCore </h1>
 
+A tutorial of CodAffection Youtube Chanel.
+
 ### 🛠 Technologies used:
 * Asp .Net Core
 * Entity Framework Core
